@@ -17,7 +17,7 @@ public class Character {
 		simpsonsList.add("8 Edna");
 		simpsonsList.add("9 Chalmers");
 		simpsonsList.add("10 Apu");
-		simpsonsList.add("11 Stu");
+		simpsonsList.add("11 Bajskorv");
 		//System.out.println(simpsonsList.get(1));
 		//return choice;
 		return simpsonsList;
