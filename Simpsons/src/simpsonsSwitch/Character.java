@@ -7,7 +7,7 @@ public class Character {
 	public ArrayList simpsons() {
 		
 		ArrayList simpsonsList = new ArrayList();
-		simpsonsList.add("1 Homer");
+		simpsonsList.add("1 Johan");
 		simpsonsList.add("2 Marge");
 		simpsonsList.add("3 Bart");
 		simpsonsList.add("4 Lisa");
